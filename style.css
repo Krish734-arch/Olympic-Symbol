@@ -1,0 +1,10 @@
+body{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    border-style: ridge;
+    
+}
+
+h1{
+    color: chartreuse;
+}
